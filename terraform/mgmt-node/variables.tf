@@ -42,7 +42,7 @@ variable "key_material" {
 }
 
 variable "private_key" {
-   description   = "I'm a private key"
+   description   = "I'm a private key 2"
 }
 
 
